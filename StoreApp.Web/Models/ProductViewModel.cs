@@ -1,6 +1,5 @@
 namespace StoreApp.Web.Models;
-
-public class Product
+public class ProductViewModel
 {
     
 }
